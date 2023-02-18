@@ -1,0 +1,88 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+body{
+    background-color: #e68200;
+}
+header{
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    font-style: initial;
+    color: red;
+    background-color: #82eca1;
+}
+#izquierda{
+    width: 18%;
+    height: 700px;
+    background-color: #d25436;
+    float:left;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+#centro{
+    width: 54.0365%;
+    height: 700px;
+    float:left;
+    text-align: center;
+    margin-bottom: 40px;
+}
+#parrafo1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #dbb900;
+}
+#parrafo2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #dbb900;
+}#parrafo3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #dbb900;
+}#parrafo4{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #dbb900;
+}#parrafo5{
+    margin-top: 20px;
+    margin-bottom: 90px;
+    background-color: #dbb900;
+}
+#derecha{
+    text-align: center;
+    align-items: center;
+    width: 25%;
+    height: 700px;
+    background-color: #d25436;
+    float:left;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+ul{
+    list-style: none;
+}
+footer
+{
+    height: 75px;
+    background-color: #845586;
+    position: fixed;
+    width: 100%;
+    bottom:0;
+    left:0;
+}
+.T{
+    margin-right: 200px;
+}
+.I{
+    margin-left: 200px;
+}
+.shonen
+{
+    margin-top: 20px;
+}
